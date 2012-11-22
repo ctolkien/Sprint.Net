@@ -1,1 +1,4 @@
 ## .Net Wrapper for Sprint.ly API
+ 
+This initial version is based on offering a strongly typed wrapper around the Sprint.ly API, 
+later versions should look to include some linq query support.
